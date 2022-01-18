@@ -1,9 +1,11 @@
 # Opencv-Face_regonition
 #count the number of faces on the video screen
 
-import cv2
+
+
+import cv2 #pip installl opencv 
 import numpy
-import dlib
+import dlib # pip instal dlib
 
 cap = cv2.VideoCapture(0)
 
